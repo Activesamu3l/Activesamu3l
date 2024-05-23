@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" src="https://www.assiv.it/wp-content/uploads/2022/03/Gestione-cyber-security.jpg"  />
+  <img width="500" src="https://www.assiv.it/wp-content/uploads/2022/03/Gestione-cyber-security.jpg"  />
 </div>
 
 ###
