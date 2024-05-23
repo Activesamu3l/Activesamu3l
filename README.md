@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a Portfolio website<br>- 🌱 I’m currently learning SIEM tools<br>- 👨‍💻 All of my projects are available here<br>- 💬 Ask me about Cybersecurity and Python<br>- 📫 How to reach me immanuelsam003@outlook.com<br>- 📄 Know about my experiences My resume<br>- ⚡ Fun fact I am a Chelsea Fan</p>
+<p align="left">- 🔭 I’m currently working on a Portfolio website<br>- 🌱 I’m currently learning SIEM tools <br>- 👨‍💻 All of my projects are available <a href="https://github.com/Activesamu3l?tab=repositories">here</a> <br>- 💬 Ask me about Cybersecurity and Python <br>- 📫 How to reach me <a href="immanuelsam003@outlook.com">immanuelsam003@outlook.com</a> <br>- 📄 Know about my experiences <a href="#">My resume</a> <br>- ⚡ Fun fact I am a Chelsea Fan</p>
 
 ###
 
