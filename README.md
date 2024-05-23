@@ -16,14 +16,14 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a Portfolio website<br>- 🌱 I’m currently learning SIEM tools <br>- 👨‍💻 All of my projects are available <a href="[https://github.com/Activesamu3l?tab=repositories](https://github.com/Activesamu3l#:~:text=Customize%20your%20pins-,Pinned,-alexnwamu/lostandfoundsystem)">here</a> <br>- 💬 Ask me about Cybersecurity and Python <br>- 📫 How to reach me <a href="mailto:immanuelsam003@outlook.com">immanuelsam003@outlook.com</a> <br>- 📄 Know about my experiences <a href="#">My resume</a> <br>- ⚡ Fun fact, I am a graphic designer</p>
+<p align="left">- 🔭 I’m currently working on a <b>Portfolio website</b> <br><br>- 🌱 I’m currently learning <b>SIEM tools</b> <br><br>- 👨‍💻 All of my projects are available <a href="#">here</a> <br><br>- 💬 Ask me about <b>Cybersecurity and Python</b> <br><br>- 📫 How to reach me <a href="mailto:immanuelsam003@outlook.com">immanuelsam003@outlook.com</a> <br><br>- 📄 Know about my experiences <a href="#">My resume</a> <br><br>- ⚡ Fun fact, I am a <b>graphic designer</b></p>
 
 ###
 
 <h2 align="left">Connect with me:</h2>
 
 ###
-
+<!--https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg-->
 <div align="left">
   <a href="https://x.com/i_samu3l" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
