@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a <b>Portfolio website</b> <br><br>- 🌱 I’m currently learning <b>SIEM tools</b> <br><br>- 👨‍💻 All of my projects are available <a href="#">here</a> <br><br>- 💬 Ask me about <b>Cybersecurity and Python</b> <br><br>- 📫 How to reach me <a href="mailto:immanuelsam003@outlook.com">immanuelsam003@outlook.com</a> <br><br>- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1BY3Jq6NGnz_ZzOYYed2tBIuh9Gt7krD3NuVbPHVZNV0/edit?usp=sharing">My resume</a> <br><br>- ⚡ Fun fact, I am a <b>graphic designer</b></p>
+<p align="left">- 🔭 I’m currently working on a <b>Portfolio website</b> <br><br>- 🌱 I’m currently learning <b>Golang</b> <br><br>- 👨‍💻 All of my projects are available <a href="#">here</a> <br><br>- 💬 Ask me about <b>Cybersecurity and Python</b> <br><br>- 📫 How to reach me <a href="mailto:immanuelsam003@outlook.com">immanuelsam003@outlook.com</a> <br><br>- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1BY3Jq6NGnz_ZzOYYed2tBIuh9Gt7krD3NuVbPHVZNV0/edit?usp=sharing">My resume</a> <br><br>- ⚡ Fun fact, I am a <b>graphic designer</b></p>
 
 ###
 
