@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">An aspiring cybersecurity analyst</h4>
+<h4 align="center">A cybersecurity analyst</h4>
 
 ###
 
